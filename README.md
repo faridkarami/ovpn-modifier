@@ -1,7 +1,7 @@
 <p align="center">
     <br/>
     <a align="center" href="https://github.com/faridkarami/ovpn-modifier" target="_blank">
-        <img width="96px" src="https://raw.githubusercontent.com/faridkarami/ovpn-modifier/main/docs/img/logo.png" />
+        <img width="500px" src="https://raw.githubusercontent.com/faridkarami/ovpn-modifier/main/docs/img/logo.png" />
     </a>
 </p>
 <h3 align="center">OVPN Modifier</h3>
